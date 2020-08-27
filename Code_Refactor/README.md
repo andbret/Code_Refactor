@@ -3,3 +3,5 @@ As the title suggests, my goal for this homework was to refactor the code and ma
 I also added alt atributes to photos, being careful to only add text to relevant ones. And finally, I commented my code.
 
 
+
+
